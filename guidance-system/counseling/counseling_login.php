@@ -1,0 +1,3 @@
+<?php
+// Counseling login page
+?>

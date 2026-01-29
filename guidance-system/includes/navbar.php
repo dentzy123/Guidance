@@ -1,0 +1,3 @@
+<?php
+// Navbar include file
+?>

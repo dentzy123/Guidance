@@ -1,0 +1,3 @@
+<?php
+// Public index page
+?>

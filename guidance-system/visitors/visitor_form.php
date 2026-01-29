@@ -1,0 +1,3 @@
+<?php
+// Visitor form page
+?>

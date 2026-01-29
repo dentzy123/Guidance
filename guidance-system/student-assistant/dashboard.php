@@ -1,0 +1,3 @@
+<?php
+// Student assistant dashboard
+?>
